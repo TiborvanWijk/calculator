@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Myframe extends JFrame implements ActionListener, KeyListener{
+public class Calculator extends JFrame implements ActionListener, KeyListener{
 
 
     JButton zeroBtn = new JButton("0");
