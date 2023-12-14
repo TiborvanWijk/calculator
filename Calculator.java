@@ -43,7 +43,7 @@ public class Calculator extends JFrame implements ActionListener, KeyListener{
     String typeOfCalculation;
 
 
-    Myframe() {
+    Calculator() {
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setLayout(null);
         this.addKeyListener(this);
